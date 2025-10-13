@@ -19,6 +19,7 @@
         "**/.settings": true,
         "**/.factorypath": true
     },
+    "workbench.startupEditor": "none",
     "workbench.tree.renderIndentGuides": "none",
     "workbench.tree.indent": 10,
     "workbench.list.smoothScrolling": true,
