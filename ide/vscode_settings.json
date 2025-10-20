@@ -23,15 +23,13 @@
     "workbench.tree.renderIndentGuides": "none",
     "workbench.tree.indent": 10,
     "workbench.list.smoothScrolling": true,
-    "workbench.iconTheme": "vira-icons-carbon",
+    "workbench.iconTheme": "material-icon-theme",
     "workbench.editor.showTabs": "single",
     "workbench.editorAssociations": {
         "*.md": "default",
         "*.ipynb": "jupyter-notebook",
         "*": "default"
     },
-    // Install Vira theme: https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme
-    "workbench.colorTheme": "Vira Carbon",
     "workbench.colorCustomizations": {
         "[Vira*]": {
             "statusBar.debuggingBackground": "#80CBC433",
